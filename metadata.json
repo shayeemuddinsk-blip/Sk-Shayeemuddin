@@ -1,0 +1,6 @@
+{
+  "name": "Smart Tuition Manager",
+  "description": "A modern and professional Tuition Management Mobile App with separate Admin, Teacher, and Student roles, complete with attendance tracking, scheduling, fee management, and notices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
